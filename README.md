@@ -81,5 +81,3 @@ Untuk informasi lebih lanjut tentang framework Vite, dapat mengunjungi [Dokument
 ├── tailwind.config.ts
 └── ...
 ```
-
-n
