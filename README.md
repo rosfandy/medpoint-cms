@@ -16,6 +16,24 @@
 
 ## Teknologi yang Digunakan
 
+<p align="center">
+<a href="https://www.typescriptlang.org/">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<a href="https://react.dev/">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+</a>
+<a href="https://vite.dev/">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"></a>
+<a href="https://tailwindcss.com/">
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
+<a href="https://supabase.com/">
+<img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge">
+</a>
+</p>
+
 - **Bahasa Pemrograman:** Typescript
 - **Framework:**
   - React
@@ -63,3 +81,5 @@ Untuk informasi lebih lanjut tentang framework Vite, dapat mengunjungi [Dokument
 ├── tailwind.config.ts
 └── ...
 ```
+
+n
