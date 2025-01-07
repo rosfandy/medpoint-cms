@@ -1,7 +1,6 @@
 import { cva } from "class-variance-authority";
 import { forwardRef, ReactNode } from "react";
 import { cn } from "../../utils/utils";
-import { IconType } from "react-icons";
 
 interface ButtonProps {
   label: string;
